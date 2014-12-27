@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 The directory is added to my git repo- it receives a hidden file that contains all versions of my files in this directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Files are first added to the staging area. A commit includes these files in the staging area. The value it offers is that its not that easy to accidentally commit something.
