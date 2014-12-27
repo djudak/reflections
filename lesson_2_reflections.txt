@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+The directory is added to my git repo- it receives a hidden file that contains all versions of my files in this directory.
