@@ -1,5 +1,8 @@
-What happens when you initialize a repository? Why do you need to do it?
+-What happens when you initialize a repository? Why do you need to do it?
 The directory is added to my git repo- it receives a hidden file that contains all versions of my files in this directory.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+-How is the staging area different from the working directory and the repository? What value do you think it offers?
 Files are first added to the staging area. A commit includes these files in the staging area. The value it offers is that its not that easy to accidentally commit something.
+
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When a project has to be extended, e.g. a finished, working program is to be expanded with a new feature. Having branches would make sure that the overall project remains accessible while also providing a backlog for the new feature without requiring it be standalone.
