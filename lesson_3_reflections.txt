@@ -1,0 +1,3 @@
+-When would you want to use a remote repository rather than keeping all your work local?
+When the project is important, so that having only one local storage device might not be secure enough;
+when several people are working on the project.
