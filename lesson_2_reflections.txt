@@ -15,3 +15,7 @@ The individual commits of both branches become intertwined according to their ti
 
 - Why do we represent it in the diagram the way we do?
 Because the diagram can show how the merge commit has two parents, how it becomes the new head of the master branch and it also allows for the commits to be placed on a timeline.
+
+-What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+pro: It is faster to let git do the merge.
+con: you might miss code changes. 
